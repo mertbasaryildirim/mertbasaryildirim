@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ABOUT ME</h1>
-  <p>I'm Başar Yıldırım. Currently studying computer sciences in TOBB Economy and Technology University. I have a deep interest in computer science and plan to develop projects in various fields such as web development, cybersecurity, and more. You may consider following me to stay informed about these projects.</p>
+  <p>I'm Başar Yıldırım. Currently studying computer sciences in TOBB University of Economics and Technology. I have a deep interest in computer science and plan to develop projects in various fields such as web development, cybersecurity, and more. You may consider following me to stay informed about these projects.</p>
 
   ## Contact Information
 
